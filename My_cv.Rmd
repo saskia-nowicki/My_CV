@@ -28,22 +28,45 @@ urlcolor: blue
 
 # Overview
 
-Social-environmental systems specialist, leading transdisciplinary work on intersecting water quality, environmental hygiene, and health risks. Using systems frameworks and tools to improve understanding
-of human-environment interactions and identify leverage points to advance health equity through resilient safe water services. A decade of research and consulting experience in WASH and water management, engaging across scales, from molecular methods to hierarchical institutional dynamics. Recently seconded to the UK government to work on systems-based strategy for advancing environmental health governance.
+As a social-ecological systems specialist, I do solution-focused research that cuts across natural, social, and health sciences to respond to long-standing and emerging water quality risks. I work collaboratively with interdisciplinary research teams and with partners beyond academia to co-produce insight that supports just transitions for healthy freshwater ecosystems and equitable safe water service delivery.
 
 # Employment
 
 | *Smith School of Enterprise and the Environment, University of Oxford* \hfill Oxford, UK
-| Postdoctoral researcher \hfill Jun 2021 - present
-| Research assistant \hfill 2016 - 18 (2 years)
+| Postdoctoral researcher \hfill 06/2021 - present
+| Research assistant \hfill 09/2016 - 2018
 
 | *School of Geography and the Environment, University of Oxford* \hfill Oxford, UK
-| Casual lecturer \hfill Sep 2021 - present
-| Teaching assistant \hfill 2018 - 21 (3 years)
+| Casual lecturer \hfill 09/2021 - present
+| Teaching assistant \hfill 09/2018 - 2021
+
+| *Dept for Environment, Food and Rural Affairs, Central Science Division* \hfill London, UK
+| Policy secondment, One Health governance strategy \hfill 10/2022 - 03/2023
+
+| *Dept of Earth Sciences, University of Oxford* \hfill Oxford, UK
+| Tutor, Myanmar TIDE Programme \hfill 04/2019 - 2020
+
+| *Oxford Policy Management, WASH Team* \hfill Oxford, UK
+| Consultant \hfill 09/2016 - 01/2017
+
+| *SRK Consulting, Geochemistry Team* \hfill Vancouver, Canada
+| Consultant \hfill 06/2012 -2015
+
+| *Gregory-Eaves Limnology Lab, McGill University* \hfill Montreal, Canada
+| Research assistant \hfill 2011
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+| *University of Oxford*, DPhil Water and Health  \hfill 2017 - 2021
+| Thesis: Data, Decisions, & Drinking-Water Safety [[view online](https://ora.ox.ac.uk/objects/uuid:952a1144-59e7-4cc7-8bb9-4273556c3892)]
+
+| *University of Oxford*, MSc Water Science, Policy and Management  \hfill 2015 - 2016
+| Thesis: Variability in Drinking-water Microbial Contamination Risk
+| Top of class, distinction
+
+| *McGill University*, BSc (Hons) Environmental Science  \hfill 2008 - 2012
+| Concentration: Water Environments and Ecosystems, Biological Stream
+| First class honours, distinction
 
 # Research Projects
 
@@ -91,6 +114,21 @@ Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report o
 
 Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
 
-# References
+# Funding
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to [steven.miller\@ekohist.su.se](mailto:steven.miller@ekohist.su.se){.email}
+| *Grants*
+| Africa Oxford Catalyst Grant (Co-I, coordinated the application) \hfill £3500 [2024]  
+| UKRI MRC PHIND Grant (Co-I, led the application) \hfill £150,000 [2023-24]
+| £1,000 [2023] - SoGE Research Environment and Culture Fund (led) 
+| £35,000 [2020-23] - ESRC IAA Grant Stages 1, 2, 3 (Co-I, co-wrote the applications)
+| £1,000 [2016] - SoGE Engagement and Impact Inspiration Fund Grant (led)
+| \$6,000 [2011] - Canada NSERC Undergraduate Research Grant (led)
+
+| *Awards*
+| £500 [2022] - SoGE ECR Engagement and Impact Award
+| £1000 [2011] - McGill University Davidovic Field Study Award
+
+| *Scholarships*
+| £100,000 [2017-20] - Commonwealth Scholarship for Doctoral Study in the UK
+| £5,000 [2015-16] - Linacre College Canadian National Scholarship
+| £5,000 [2015-16] - SoGE Departmental Scholarship
