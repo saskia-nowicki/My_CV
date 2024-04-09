@@ -5,7 +5,7 @@ geometry: margin=0.9in
 title: "CV"
 author: Saskia Nowicki
 
-jobtitle: "Research Associate, Environmental Systems Science for Policy"
+jobtitle: "Postdoctoral Researcher, Environmental Systems Science for Policy"
 address: "Geography and the Environment · University of Oxford · S Parks Road OX1 3QY, UK"
 fontawesome: yes
 email: saskia.nowicki@ouce.ox.ac.uk
@@ -50,85 +50,58 @@ As a social-ecological systems specialist, I do solution-focused research that c
 | Consultant \hfill 09/2016 - 01/2017
 
 | *SRK Consulting, Geochemistry Team* \hfill Vancouver, Canada
-| Consultant \hfill 06/2012 -2015
+| Consultant \hfill 06/2012 - 2015
 
 | *Gregory-Eaves Limnology Lab, McGill University* \hfill Montreal, Canada
 | Research assistant \hfill 2011
 
 # Education
 
-| *University of Oxford*, DPhil Water and Health  \hfill 2017 - 2021
-| Thesis: Data, Decisions, & Drinking-Water Safety [[view online](https://ora.ox.ac.uk/objects/uuid:952a1144-59e7-4cc7-8bb9-4273556c3892)]
+| *University of Oxford*, DPhil Water and Health \hfill 2017 - 2021
+| Thesis: Data, Decisions, & Drinking-Water Safety [[view](https://ora.ox.ac.uk/objects/uuid:952a1144-59e7-4cc7-8bb9-4273556c3892)]
 
-| *University of Oxford*, MSc Water Science, Policy and Management  \hfill 2015 - 2016
+| *University of Oxford*, MSc Water Science, Policy and Management \hfill 2015 - 2016
 | Thesis: Variability in Drinking-water Microbial Contamination Risk
 | Top of class, distinction
 
-| *McGill University*, BSc (Hons) Environmental Science  \hfill 2008 - 2012
+| *McGill University*, BSc (Hons) Environmental Science \hfill 2008 - 2012
 | Concentration: Water Environments and Ecosystems, Biological Stream
 | First class honours, distinction
 
-# Research Projects
+# Selected Publications
 
-# Publications
-
-## Books
-
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
-
-## Journal Articles
-
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
-
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
-
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
-
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
-
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
-
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
-
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
-
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
-
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
-
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
-
-## Other Publications
-
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
+| (2024) Reinforcing feedbacks for sustainable implementation of rural drinking-water treatment technology. *ACS ES&T Water*. Laauwen M & **Nowicki** **S**. [[view](https://doi.org/10.1021/acsestwater.3c00779)]
+| 
+| (2023) Water chemistry poses health risks as reliance on groundwater increases: a systematic review of hydrogeochemistry research from Ethiopia and Kenya. *STOTEN*. **Nowicki S**, Birhanu B, Tanui F, Sule MN, Charles K, Olago D, & Kebede S. [[view](https://doi.org/10.1016/j.scitotenv.2023.166929)] 
+| 
+| (2023) Results-based funding for safe drinking water services: How a standard contract design with payment for results can accelerate safe drinking water services at scale. REACH working paper 13. University of Oxford and Uptime Global. Oxford, UK. [[view](https://reachwater.uk/resource/results-based-funding-for-safe-drinking-water-services/)] 
+| 
+| (2022) Fear, efficacy, and environmental health risk reporting: complex responses to water quality test results in low-income communities. *IJERPH*. **Nowicki S**, Bukachi S, Hoque S, Katuva J, Musyoka M, Sammy M, Mwaniki M, Omia D, Wambua F, & Charles, K. [[view](https://doi.org/10.3390/ijerph19010597)]
+| 
+| (2021) The utility of *Escherichia coli* as a contamination indicator for rural drinking water: evidence from whole genome sequencing. *PLoS ONE*. **Nowicki S**, deLaurent ZR, de Villiers EP, Githinji G, & Charles KJ. [[view](https://doi.org/10.1371/journal.pone.0245910)]
+| 
+| (2021) Global prospects to deliver safe drinking water services for 100 million rural people by 2030. REACH Working Paper 12. RWSN and University of Oxford. Oxford, UK. [[view](https://reachwater.uk/resource/global-prospects-to-deliver-safe-drinking-water-services-for-100-million-rural-people-by-2030/)]
+| 
+| (2020) Including water quality monitoring in rural water services: why safe water requires challenging the quantity versus quality dichotomy. *npj Clean Water*. **Nowicki S**, Koehler J, & Charles KJ. [[view](https://doi.org/10.1038/s41545-020-0062-x)]
+| 
+| (2020) A framework for monitoring the safety of water services: from measurements to security. *npj Clean Water*. Charles KJ, **Nowicki S**, & Bartram JK. [[view](https://doi.org/10.1038/s41545-020-00083-1)]
+| 
+| (2019) Tryptophan-like fluorescence as a measure of microbial contamination risk in groundwater. *STOTEN*. **Nowicki S**, Lapworth DJ, Ward JST, Thomson P, & Charles K. [[view](https://doi.org/10.1016/j.scitotenv.2018.07.274)]
 
 # Funding
 
 | *Grants*
-| Africa Oxford Catalyst Grant (Co-I, coordinated the application) \hfill £3500 [2024]  
+| Africa Oxford Catalyst Grant (Co-I, coordinated the application) \hfill £3500 [2024]
 | UKRI MRC PHIND Grant (Co-I, led the application) \hfill £150,000 [2023-24]
-| £1,000 [2023] - SoGE Research Environment and Culture Fund (led) 
-| £35,000 [2020-23] - ESRC IAA Grant Stages 1, 2, 3 (Co-I, co-wrote the applications)
-| £1,000 [2016] - SoGE Engagement and Impact Inspiration Fund Grant (led)
-| \$6,000 [2011] - Canada NSERC Undergraduate Research Grant (led)
+| SoGE Research Environment and Culture Fund (led) \hfill £1,000 [2023]
+| ESRC IAA Grant Stages 1, 2, 3 (Co-I, co-wrote the applications) \hfill £35,000 [2020-23]
+| SoGE Engagement and Impact Inspiration Fund Grant (led) \hfill £1,000 [2016]
+| Canada NSERC Undergraduate Research Grant (led) \hfill \$6,000 [2011]
 
 | *Awards*
-| £500 [2022] - SoGE ECR Engagement and Impact Award
-| £1000 [2011] - McGill University Davidovic Field Study Award
+| SoGE ECR Engagement and Impact Award \hfill £500 [2022]
+| McGill University Davidovic Field Study Award \hfill £1000 [2011]
 
 | *Scholarships*
-| £100,000 [2017-20] - Commonwealth Scholarship for Doctoral Study in the UK
-| £5,000 [2015-16] - Linacre College Canadian National Scholarship
-| £5,000 [2015-16] - SoGE Departmental Scholarship
+| Commonwealth Scholarship for Doctoral Study in the UK \hfill £100,000 [2017-20]
+| Linacre Canadian National Scholarship & SoGE Departmental Scholarship \hfill £10,000 [2015-16]

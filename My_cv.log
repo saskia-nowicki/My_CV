@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.9)  9 APR 2024 19:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.9)  9 APR 2024 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -756,13 +756,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 131.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-[1
+) [1
 
-{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [3] 
+{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./My_cv.aux)
  ***********
@@ -770,21 +766,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `My_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 3FE926A84C92C0244C05C096F089DAEE;945.
+(rerunfilecheck)             Checksum: 9CE5D5A48C279A2FB7CF14BD2B4DD80A;498.
  ) 
 Here is how much of TeX's memory you used:
- 25887 strings out of 476064
- 479136 string characters out of 5791136
- 1939496 words of memory out of 5000000
- 47454 multiletter control sequences out of 15000+600000
- 605726 words of font info for 100 fonts, out of 8000000 for 9000
+ 25892 strings out of 476064
+ 479190 string characters out of 5791136
+ 1942496 words of memory out of 5000000
+ 47445 multiletter control sequences out of 15000+600000
+ 607176 words of font info for 112 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,11n,121p,1017b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on My_cv.pdf (3 pages, 185576 bytes).
+<c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/Users/saski/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on My_cv.pdf (2 pages, 178575 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 28757 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 28725 words of extra memory for PDF output out of 29859 (max. 10000000)
 
