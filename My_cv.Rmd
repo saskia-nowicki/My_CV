@@ -2,10 +2,10 @@
 output: stevetemplates::cv
 geometry: margin=0.9in
 
-title: "CV"
+title: "Resume"
 author: Saskia Nowicki
 
-jobtitle: "Postdoctoral Researcher, Environmental Systems Science for Policy"
+jobtitle: "Research Associate, Environmental Systems Science for Policy"
 address: "Geography and the Environment · University of Oxford · S Parks Road OX1 3QY, UK"
 fontawesome: yes
 email: saskia.nowicki@ouce.ox.ac.uk
@@ -33,7 +33,7 @@ As a social-ecological systems specialist, I do solution-focused research that c
 # Employment
 
 | *Smith School of Enterprise and the Environment, University of Oxford* \hfill Oxford, UK
-| Postdoctoral researcher \hfill 06/2021 - present
+| Research associate \hfill 06/2021 - present
 | Research assistant \hfill 09/2016 - 2018
 
 | *School of Geography and the Environment, University of Oxford* \hfill Oxford, UK
